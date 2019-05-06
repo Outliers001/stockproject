@@ -2,9 +2,4 @@
 Md. Shakil Sikder, Department of Statistics, BSMRSTU
 
 ## Abstruct
-Predicting how the stock market will move is one of the most difficult and challenging things to do. /Efficient Market Hypothesis/
-
-
-There are so many factors involved in the prediction – physical factors vs. physhological, rational and irrational behaviour, etc. All these aspects combine to make share prices volatile and very difficult to predict with a high degree of accuracy. 
-
-Can we use machine learning as a game changer in this domain? Using features like the latest announcements about an organization, their quarterly revenue results, etc., machine learning techniques have the potential to unearth patterns and insights we didn’t see before, and these can be used to make unerringly accurate predictions.
+Predicting how the stock market will move is one of the most difficult and challenging things to do. Efficient Market Hypothesis (EMH) states that accurate prediction of stock price is nearly impossible. Driven by supply and demand, macroeconomic changes such as inflation or political instability can affect whole markets, while local events like company financial announcements or product releases impact individual stocks. There are so many factors involved in the prediction – physical factors vs. physhological, rational and irrational behaviour, etc. All these aspects combine to make share prices volatile and very difficult to predict with a high degree of accuracy. Machine learning techniques have the potential to unearth patterns and insights we didn’t see before, and these can be used to make unerringly accurate predictions. 
