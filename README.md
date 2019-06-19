@@ -1,4 +1,4 @@
-# Predicting Stock Movement by the Application of Machine Learning and Deep Learning Algorithms
+# Deep Learning Approach in Predicting Stock Price and A Comparison with Traditional Machine Learning Algorithms
 Md. Shakil Sikder, Department of Statistics, BSMRSTU
 
 ## Abstruct
